@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1431916336 source:d:\4th sem\comsc-200\labs\lab 15\elevator simulation 5\elevator.cpp
+	"Elevator.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1431744536 d:\4th sem\comsc-200\labs\lab 15\elevator simulation 5\elevator.h
+	<iostream>
+	<vector>
+	"Rider.h"
+
+1431751242 d:\4th sem\comsc-200\labs\lab 15\elevator simulation 5\rider.h
+
+1431916336 d:\4th sem\comsc-200\labs\lab 15\elevator simulation 5\floor.h
+	<iostream>
+	<string>
+	<vector>
+	"Rider.h"
+
+1431910564 source:d:\4th sem\comsc-200\labs\lab 15\elevator simulation 5\elevatorsimulation5.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Building.h"
+
+1431916126 source:d:\4th sem\comsc-200\labs\lab 15\elevator simulation 5\building.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	"Building.h"
+	"Elevator.h"
+	"Floor.h"
+	"Rider.h"
+
+1431916336 d:\4th sem\comsc-200\labs\lab 15\elevator simulation 5\building.h
+	<iostream>
+	<vector>
+
+1431910760 source:d:\4th sem\comsc-200\labs\lab 15\elevator simulation 5\floor.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+
+1431751242 source:d:\4th sem\comsc-200\labs\lab 15\elevator simulation 5\rider.cpp
+	"Rider.h"
+
+1431916336 source:c:\users\sohaib\desktop\usb\usb files\4th sem\comsc-200\labs\lab 15\elevator simulation 5\elevator.cpp
+	"Elevator.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1431744536 c:\users\sohaib\desktop\usb\usb files\4th sem\comsc-200\labs\lab 15\elevator simulation 5\elevator.h
+	<iostream>
+	<vector>
+	"Rider.h"
+
+1432093970 c:\users\sohaib\desktop\usb\usb files\4th sem\comsc-200\labs\lab 15\elevator simulation 5\rider.h
+
+1432094038 c:\users\sohaib\desktop\usb\usb files\4th sem\comsc-200\labs\lab 15\elevator simulation 5\floor.h
+	<iostream>
+	<string>
+	<vector>
+	"Rider.h"
+
+1432097013 source:c:\users\sohaib\desktop\usb\usb files\4th sem\comsc-200\labs\lab 15\elevator simulation 5\elevatorsimulation5.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Building.h"
+
+1432205848 c:\users\sohaib\desktop\usb\usb files\4th sem\comsc-200\labs\lab 15\elevator simulation 5\building.h
+	<iostream>
+	<vector>
+
+1431910760 source:c:\users\sohaib\desktop\usb\usb files\4th sem\comsc-200\labs\lab 15\elevator simulation 5\floor.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+
+1431751242 source:c:\users\sohaib\desktop\usb\usb files\4th sem\comsc-200\labs\lab 15\elevator simulation 5\rider.cpp
+	"Rider.h"
+
+1432206809 source:c:\users\sohaib\desktop\usb\usb files\4th sem\comsc-200\labs\lab 15\elevator simulation 5\building.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	"Building.h"
+	"Elevator.h"
+	"Floor.h"
+	"Rider.h"
+
