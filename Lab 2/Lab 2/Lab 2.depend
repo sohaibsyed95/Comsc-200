@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1422855892 source:d:\4th sem\comsc-200\labs\lab 2\lab 2\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+	<cstring>
+	<cstdlib>
+
