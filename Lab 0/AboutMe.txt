@@ -1,0 +1,11 @@
+1. Your name: My name is Sohaib Syed
+
+2. When did you take COMSC 110 and 165? Who was your instructor? 
+If you did not take COMSC 110 or 165, explain what equivalent course or preparation enabled you to fulfill the prerequisite requirement.
+I took COMSC 110 during Spring of 2014 with Ms. Aladegbami. I took COMSC 165 with Professor Burns in Fall of 2014.
+
+3. Compiler(s): What compiler(s) do you expect to use in this course?
+I plan on using Microsoft Visual Studio 2013.
+
+4. Editor(s): What code editor(s) do you expect to use in this course?
+I plan on using Microsoft Visual Studio 2013.
