@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1426406716 source:d:\4th sem\comsc-200\labs\lab 8\lab 8a\phone number\phonenumber.cpp
+	<iomanip>
+	"PhoneNumber.h"
+
+1426406610 d:\4th sem\comsc-200\labs\lab 8\lab 8a\phone number\phonenumber.h
+	<iostream>
+	<string>
+

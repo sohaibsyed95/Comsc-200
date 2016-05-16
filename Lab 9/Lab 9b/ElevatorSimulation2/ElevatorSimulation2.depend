@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1427079064 source:d:\4th sem\comsc-200\labs\lab 9\lab 9b\elevatorsimulation2\elevator.cpp
+	"Elevator.h"
+	"Floor.h"
+
+1427088376 d:\4th sem\comsc-200\labs\lab 9\lab 9b\elevatorsimulation2\elevator.h
+	<iostream>
+
+1427012556 d:\4th sem\comsc-200\labs\lab 9\lab 9b\elevatorsimulation2\floor.h
+
+1427079064 source:d:\4th sem\comsc-200\labs\lab 9\lab 9b\elevatorsimulation2\elevatorsimulation2.cpp
+	<iostream>
+	"Floor.h"
+	"Elevator.h"
+
+1427012556 source:d:\4th sem\comsc-200\labs\lab 9\lab 9b\elevatorsimulation2\floor.cpp
+	"Floor.h"
+
