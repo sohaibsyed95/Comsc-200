@@ -1,0 +1,18 @@
+// Lab 1a, MyGrade.txt
+// Programmer: Sohaib Syed
+// Editor(s) used: Notepad
+// Compiler(s) used: Notepad
+
+Make int total equal to zero
+Make int gradeCounter equal to one
+
+While grade counter is less than or equal to ten
+  Ask user to enter the next grade
+  Input the next grade
+  Add the grade into the total
+  Add one to the grade counter
+
+Set the class average to the total divided by ten
+Print the total of the grades for all students in the class
+Print the class average 
+
