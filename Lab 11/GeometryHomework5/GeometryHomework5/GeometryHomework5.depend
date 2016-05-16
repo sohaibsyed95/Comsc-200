@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1428898236 source:d:\4th sem\comsc-200\labs\lab 11\geometryhomework5\geometryhomework5\geometryhomework5.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<cstdlib>
+

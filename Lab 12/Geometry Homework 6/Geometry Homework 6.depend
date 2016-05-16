@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1429516002 source:d:\4th sem\comsc-200\labs\lab 12\geometry homework 6\geometryhomework6.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<cstring>
+	<cstdlib>
+
