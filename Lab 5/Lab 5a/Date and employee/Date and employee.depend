@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1424572776 source:d:\4th sem\comsc-200\labs\lab 5\lab 5a\date and employee\date.cpp
+	<iostream>
+	"Date.h"
+
+1424572604 d:\4th sem\comsc-200\labs\lab 5\lab 5a\date and employee\date.h
+
+1424584990 source:d:\4th sem\comsc-200\labs\lab 5\lab 5a\date and employee\employee.cpp
+	<iostream>
+	"Employee.h"
+	"Date.h"
+
+1424572518 d:\4th sem\comsc-200\labs\lab 5\lab 5a\date and employee\employee.h
+	<string>
+	"Date.h"
+
+1424572518 source:d:\4th sem\comsc-200\labs\lab 5\lab 5a\date and employee\test.cpp
+	<iostream>
+	"Date.h"
+
+1424572854 source:d:\4th sem\comsc-200\labs\lab 5\lab 5a\date and employee\testemployee.cpp
+	<iostream>
+	"Date.h"
+	"Employee.h"
+

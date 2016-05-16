@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1424058990 source:d:\4th sem\comsc-200\labs\lab 4\lab 4a\time\test.cpp
+	"Time.h"
+	<iostream>
+
+1424066234 d:\4th sem\comsc-200\labs\lab 4\lab 4a\time\time.h
+
+1424066234 source:d:\4th sem\comsc-200\labs\lab 4\lab 4a\time\time.cpp
+	"Time.h"
+	<iostream>
+	<iomanip>
+

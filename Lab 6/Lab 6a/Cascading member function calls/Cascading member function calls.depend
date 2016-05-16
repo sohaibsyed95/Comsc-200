@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1424721408 source:d:\4th sem\comsc-200\labs\lab 6\lab 6a\cascading member function calls\test.cpp
+	"Time.h"
+	<iostream>
+
+1424850560 d:\4th sem\comsc-200\labs\lab 6\lab 6a\cascading member function calls\time.h
+
+1424721338 source:d:\4th sem\comsc-200\labs\lab 6\lab 6a\cascading member function calls\time.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+
